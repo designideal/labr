@@ -1,1 +1,1 @@
-<span id="campanha">10 vitórias e 14 derrotas / 10º no Oeste</span>
+<span id="campanha">10 vitórias e 15 derrotas / 11º no Oeste</span>
