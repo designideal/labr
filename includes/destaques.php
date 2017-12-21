@@ -1,10 +1,10 @@
 <div class="medium-4 columns">
 <ul>
   <li class="highlight">Destaques do último jogo</li>
-  <li>Kuzma: 25 pts, 6 reb e 3 ast 39’</li>
-  <li>Ingram: 19 pts, 6 reb e 5 ast 39’</li>
-  <li>Ball: 16 pts, 6 reb e 6 ast 38’</li>
-  <li>Randle: 15 pts, 11 reb e 2 ast 30’</li>
-  <li>Pope: 14 pts, 8 reb e 1 ast 41’</li>
+  <li>Kuzma: 38 pts, 7 reb, 4 ast. 40'</li>
+  <li>Brewer: 21 pts, 5 reb, 1 ast e 3 rbo. 25'’</li>
+  <li>Ingram: 13 pts, 6 reb, 6 ast, 2 rbo. 40'</li>
+  <li>Ball: 16 pts, 9 reb, 4 ast e 2 toc. 38'</li>
+  <li>Nance Jr: 13 pts, 9 reb, 4 ast e 1 rbo. 22'</li>
   </ul>
 </div>
