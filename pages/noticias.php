@@ -176,10 +176,25 @@ endif;
 						  </div>
 					  </article>
 					  <?php endif;?>
+					  
+					  
+					  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<!-- Pós-Materia -->
+						<ins class="adsbygoogle"
+							 style="display:block"
+							 data-ad-client="ca-pub-9403421182725373"
+							 data-ad-slot="4161066512"
+							 data-ad-format="auto"></ins>
+						<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+
+					  
+					  
 						  
 					  <!--INICIO TRIPA NOTICIAS-->
 						  
-					  <section id="listagem" class="tripa-noticias">
+					  <section id="listagem" class="tripa-noticias" style="margin-top: 30px;">
 						  <div class="row">
 							  <?php 
 							    $in = ($url[0]!='categoria')?0:1;
@@ -254,9 +269,23 @@ endif;
 					  </section>
 				  	  
 				  	  <!--FIM LISTA NOTÍCIAS-->
+					  
+					  
+					  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9403421182725373"
+     data-ad-slot="3387751338"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+					  
+					  
 				  	  
 				  	  <?php if(count($url)>=3):?>
-					  <section id="comentarios">
+					  <section id="comentarios" style="margin-top: 40px;">
 						  <div class="row">
 							  <div class="medium-12 columns text-center">
 								  <h2>Fala aí!</h2>
