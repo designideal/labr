@@ -286,17 +286,10 @@ header ul li a:hover{
 article{
   padding-bottom: 20px; }
 article a{
-	font-family: korolev-compressed, sans-serif  !important;
-	display: inline-block;
-	background: #3B1D58;
-	color: #fff;
-    transition: background-color 300ms ease-in-out;
-    font-size: 24px;
-    text-transform: uppercase;
-    padding: 5px 15px;}
+	text-decoration: underline;
+	color: #5d18a0;}
 article a:hover{
-	background: #f4d35e;
-	color: #fff;}
+	color: #f4d35e;}
 article img{
 	text-align: center;}
 article h2{
@@ -321,6 +314,19 @@ article p{
   margin: 30px 0;}
 article #bloco-txt{
   padding: 30px 0;}
+article .btn{
+	display: inline-block;
+	text-decoration: none;
+	transition: background-color 300ms ease-in-out;
+	font-size:20px;
+	padding: 5px 10px;
+	background: #f4d35e;
+	text-transform: uppercase;
+	font-family: korolev-compressed,sans-serif;
+	color: #fff;}
+article .btn:hover{
+	background: #3B1D58 !important;
+	color: #fff !important;}
 blockquote p{
 font-family: korolev-compressed, sans-serif  !important;
   display: inline !important;
@@ -385,6 +391,7 @@ article li a:hover{
   text-transform: uppercase;}
 #contador a{
   display: block;
+	text-decoration: none !important;
   transition: background-color 300ms ease-in-out;
   background: #3B1D58;
   color: #fff;
