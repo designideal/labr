@@ -204,7 +204,7 @@ $aspas = $fraseNeg->listar('','id_frase DESC');
 					  <section id="artigo" class="hide-for-small">
 					  	<a href="<?php echo URL.'noticias/'.$funcao->dataBr($artigo[0]->data,"mes").'/'.$funcao->retirarAcento($artigo[0]->titulo)?>">
 							  <div class="row">
-								<div class="medium-6 medium-centered  columns text-center">
+								<div class="medium-8 medium-centered  columns text-center">
 									<h2><?php echo $artigo[0]->titulo?></h2>
 								</div>
 							  </div>
